@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8" />
+  <title>Redirecting to Roblox</title>
+  <script>
+    window.location.replace("https://www.roblox.com/share?code=443f3895da164247b19af9ed316c7099&type=Server");
+  </script>
+</head>
+<body>
+  <p>Redirecting to Roblox...</p>
+</body>
+</html>
